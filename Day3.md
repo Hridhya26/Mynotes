@@ -29,4 +29,4 @@ Data Science Life Cycle-
 (v)Feature Engineering
 (vi)Predictive Modeling
 (vii)Data Visualization
-
+Turing Test
