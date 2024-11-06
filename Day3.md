@@ -1,4 +1,4 @@
-#Demystifying Terms Data Science,Machine Learning,Artificial Intelligence
+# Demystifying Terms Data Science,Machine Learning,Artificial Intelligence
 
 - Enigma Cipher Machine-Used by Nazi Germany during world war II for military communication. This was during 1939-1945.
   
@@ -44,7 +44,7 @@
 
 - Scikit learn-Machine learning library in python.
 
-##Data Science Life Cycle- 
+## Data Science Life Cycle- 
 - (i)Business Understanding
 - (ii)Data Mining
 - (iii)Data Cleaning
