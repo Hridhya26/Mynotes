@@ -3,6 +3,8 @@
 - Statistics branches into two - Descriptive and inferential statistics.
   
 - Measures of central tendency - Mean,Median,Mode
+
+- ![](https://www.flexiprep.com/Expected-Exam-Questions/Mathematics/Class-11/posts/Ch-15-Statistics-Miscellaneous-Exercise-Solutions-Part-2/Formula-of-mean.png)
   
 - Percentile.
   
