@@ -54,3 +54,5 @@
 - (vii)Data Visualization
   
 - Turing Test
+
+- ![](https://www.sudeep.co/images/post_images/2018-02-09-Understanding-the-Data-Science-Lifecycle/chart.png)
