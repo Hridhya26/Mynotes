@@ -1,5 +1,5 @@
 # Statistics- the science which helps in making decisions.
-           - Statistics helps in finding whether causation exists or not.
+              Statistics helps in finding whether causation exists or not.
 - Statistics branches into two - Descriptive and inferential statistics.
   
 - Measures of central tendency - Mean,Median,Mode
