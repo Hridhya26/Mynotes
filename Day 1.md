@@ -1,4 +1,4 @@
-# Googlr productivity tools
+# Google Productivity Tools
 -Google Docs is a tool which helps us to create,edit and share documents.
 -Google sheets is again a tool or a web based spreadsheet application  
 -Google Colab is a free cloud based platform that allows users to write and execute Python code in a Jupyter notebook environment.
