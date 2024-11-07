@@ -5,6 +5,8 @@
 - Measures of central tendency - Mean,Median,Mode
 
    ![](https://media.geeksforgeeks.org/wp-content/uploads/20220914114549/meanformula.png)
+
+  ![](https://d1avenlh0i1xmr.cloudfront.net/0ec61e08-cc6a-4724-93e5-12da8dc17a03/5.jpg)
   
 - Percentile.
   
@@ -42,7 +44,7 @@
 - Correlation coefficient- (a)Pearson Correlation
                          (b)Spearman Correlation
                          
-                         - Both lies between -1 and 1.
+                          Both lies between -1 and 1.
 - Pearson used for linear relationships between continuous variables.
 
 - Spearman used for monotonic relationships based on ranks rather than  values.
