@@ -43,6 +43,17 @@ Kurtosis is a measure of the tailedness of a distribution. Tailedness is how oft
   ![](https://th.bing.com/th/id/OIP.tX18e557drDvzN8a3zfZsQHaD0?w=328&h=179&c=7&r=0&o=5&pid=1.7)
 
   - z test
+    ![](https://th.bing.com/th/id/OIP.bwl0-Yb39gj4JsIjfSXMmgAAAA?w=158&h=121&c=7&r=0&o=5&pid=1.7)
+
+  - t test
+  - One sample
+    
+    ![](https://th.bing.com/th/id/OIP.UArSVeu4zJ3AhhpcdhRffAHaEK?w=291&h=180&c=7&r=0&o=5&pid=1.7)
+
+  - Two sample
+    
+    ![](https://th.bing.com/th/id/OIP.LJaPsSVAMpoqTVfq7ONuqAAAAA?rs=1&pid=ImgDetMain)
+    
     
     
   
