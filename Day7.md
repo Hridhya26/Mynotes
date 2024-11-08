@@ -26,4 +26,10 @@
 
 - Norm of a vector is magnitude.
 
+- UV Decomposition
+  - UV Decomposition,more commonly known as Singular Value Decomposition(SVD).
+  - Matrix factorization technique that decomposes a matrix into three other matrices.
+  - A powerful tool in linear algebra with numerous applications in data science and machine learning.
+      
+
  
