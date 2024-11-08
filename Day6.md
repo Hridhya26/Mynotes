@@ -32,7 +32,20 @@ Kurtosis is a measure of the tailedness of a distribution. Tailedness is how oft
 
   ![](https://www.scribbr.com/wp-content/uploads/2022/07/The-difference-between-skewness-and-kurtosis.webp)
 
-## Gaussian Properties
+- Gaussian Properties
+
+- y=x(straight line)
+
+- y=x^2(parabola)
+
+  ![](https://th.bing.com/th/id/OIP.O0ICPOAAOY2GbPuQxy4hdwHaCd?w=335&h=116&c=7&r=0&o=5&pid=1.7)
+
+  ![](https://th.bing.com/th/id/OIP.tX18e557drDvzN8a3zfZsQHaD0?w=328&h=179&c=7&r=0&o=5&pid=1.7)
+
+  - z test
+    
+    
+  
 
   
     
