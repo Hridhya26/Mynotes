@@ -53,11 +53,14 @@ Conditional probability is the probability of an event occurring given that anot
 
 Combinotorics
  - Binomial distribution
+     - P(X = r) = nCrprqn-r, r = 0, 1, 2, 3…. 
 
-Expected value
+Expected value - The expected value of a random variable X is denoted by [eq3] and it is often called the expectation of X or the mean of X.
+                 ![image](https://github.com/user-attachments/assets/0c2f9339-aaa2-4006-b66b-2e0d40c4d2cb)
+
 
 Essence of information theory
- - Quantifying uncertainity
- - Entropy
- - Entropy curve calculation
+ - Quantifying uncertainity 
+ - Entropy - it is a measure of uncertainity.
+ - Entropy curve calculation 
  - Cross entropy                                                                                                           
