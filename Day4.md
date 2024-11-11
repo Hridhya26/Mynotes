@@ -6,9 +6,13 @@
 
    ![](https://media.geeksforgeeks.org/wp-content/uploads/20220914114549/meanformula.png)
 
-  ![](https://d1avenlh0i1xmr.cloudfront.net/0ec61e08-cc6a-4724-93e5-12da8dc17a03/5.jpg)
+  ![](https://www.onlinemathlearning.com/image-files/median.png)
+
+ - Mode - The mode is the value that appears most often in a set of data.
   
-- Percentile.
+- Percentile - In statistics, a k-th percentile, also known as percentile score or centile, is a score below which a given percentage k of scores in its frequency distribution falls ("exclusive" definition) or a score at or below which a given percentage falls ("inclusive" definition).
+
+  ![](https://th.bing.com/th/id/OIP.O2xBkwOxo3yGVUDSbifatQAAAA?rs=1&pid=ImgDetMain)
   
 - Marks - low to high again to low - distribution curve or bell curve or Normally distributed.
 
@@ -18,6 +22,8 @@
 - Measures of dispersion - Range,Standard deviation,Variance.
   
 - Variance is the square of standard deviation.
+
+  ![](https://th.bing.com/th/id/OIP.kP5Lh3Z6Y9_rF0Tx0GkB1gAAAA?rs=1&pid=ImgDetMain)
 
 - Outlier - A data point that differs significantly from other observations.
 
