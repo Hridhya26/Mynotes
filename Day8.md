@@ -42,12 +42,12 @@ P(Event) = No of favourable outcomes/Total number of outcomes
 ### Bayes Theorem
 Bayes theorem (also known as the Bayes Rule or Bayes Law) is used to determine the conditional probability of event A when event B has already occurred.
 - P(A|B) = P(B|A)P(A) / P(B)
-- P(Ei|A) = P(Ei)P(A|Ei) / ∑ P(Ek)P(A|Ek) for k = 1, 2, 3, …., n
    - Prior - P(A)
    - Likelihood - P(B/A)
    - Posterior - P(A/B)
    - Marginal - P(B)
-
+- P(Ei|A) = P(Ei)P(A|Ei) / ∑ P(Ek)P(A|Ek) for k = 1, 2, 3, …., n
+  
 ### Difference between conditional probability and Bayes theorem
 Conditional probability is the probability of an event occurring given that another event has already occurred.  Bayes' Theorem, extends the idea of conditional probability. It provides a way to update the probability of a hypothesis based on new evidence.
 
