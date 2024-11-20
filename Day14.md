@@ -71,7 +71,7 @@ WHERE gdp IS NULL; - displays name,continent where gdp is null.
 ### SELECT * 
 FROM world 
 WHERE NOT population<200000;
-### SELECT name.population FROM world
+### SELECT name,population FROM world
   WHERE name IN('Brazil','Russia','India','China');
 ### SELECT name AS country_name
  FROM world
