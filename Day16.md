@@ -58,11 +58,11 @@ order of execution
           from tableA
           natural join tableB;
 
-    ## NESTED QUERIES
-    first inner query is executed then outer query
-    IN, NOT IN, EXISTS,NOT EXISTS,ANY , ALL,COMPARISON OPERATORS
+## NESTED QUERIES
+  first inner query is executed then outer query
+   IN, NOT IN, EXISTS,NOT EXISTS,ANY , ALL,COMPARISON OPERATORS
 
-    ### CREATE,READ,UPDATE,DELETE
+### CREATE,READ,UPDATE,DELETE
    - CREATE
      -  CREATE TABLE table_name(
          col1 col1_dtype,
