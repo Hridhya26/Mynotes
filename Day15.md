@@ -1,11 +1,18 @@
 Introduction to Databases
+
  - Why Databases?
+   
        - Alternatives: CSV file,text file,excel file are all flat files.
+   
        - Data base makes our life simpler,easier,faster,relatableand secure.
+   
        - Eg: Finding rows where values of a particular column>10 is time consuming in flat files.Databases use a technique called indexing with simple and easy to uselanguage called SQL to achieve the result faster.
+   
        -Database breaks up the data to different places to increase reliability.
+   
        -Example: Oracle,MySQL,SQL,server.
-   - DB contains one or more tables mainly.
+   
+       - DB contains one or more tables mainly.
 
 ## Relational and Non Relational Databases
  - Relational : (Traditional DB(from 1970) like the one listed above):A relational DB
