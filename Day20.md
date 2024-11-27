@@ -10,11 +10,29 @@
 - The main difference between numerical and categorical variables is that numerical variables are quantifiable and represent numbers, while categorical variables are non-numerical and represent groups
 
 ## Visualization
-- Matplotlib
-          - Figures
-          - Axis labels
-          - Sub-figures
-          - Ticks
+- Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
+  
+  - Matplotlib : Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+    
+     - Figures - A Figure is the overall container for a plot or group of plots.
+                    It represents the entire "canvas" on which one or more Axes (plots) are drawn.
+                   You can create a figure using the plt.figure() function or implicitly using plt.subplots().
+       
+     - Axis labels - Axis Labels describe what each axis represents.
+You can set labels for the x-axis and y-axis using plt.xlabel() and plt.ylabel() or ax.set_xlabel() and ax.set_ylabel() for an Axes object.
+
+     - Sub-figures - A Subfigure is a division within a Figure that allows you to arrange multiple smaller Figures side by side or stacked.
+Subfigures are available starting from Matplotlib 3.4 and allow advanced layouts.
+You can create subfigures using the Figure.add_subfigure() method.
+
+     - Ticks - Ticks are the markers on the x-axis and y-axis (or other axes) that indicate the scale or intervals.
+               There are two main types of ticks:
+
+       Major ticks: Show primary scale divisions.
+    
+       Minor ticks: Show additional scale details (optional).
+
+       You can customize the appearance of ticks using plt.xticks() and plt.yticks().
 
 ## Types of plots
    - Line plot
