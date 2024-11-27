@@ -1,16 +1,16 @@
 ## Datatypes
 - continuous - Eg : temperature
 - discrete - can only be expressed as whole numbers and can be counted.
-- classification and regression - Classification and regression are both supervised machine learning algorithms that find patterns in data to predict outcomes. The main difference between the two is that classification predicts discrete categories, while regression predicts continuous numerical values.
+- classification and regression - Classification and regression are both supervised machine learning algorithms that find patterns in data to predict outcomes. The main                                          difference between the two is that classification predicts discrete categories, while regression predicts continuous numerical values.
 
 - Classification and regression model.
   
 ## Numerical and categorical varible
 - Numerical again divided into continuous and discrete.
-- The main difference between numerical and categorical variables is that numerical variables are quantifiable and represent numbers, while categorical variables are non-numerical and represent groups
+- The main difference between numerical and categorical variables is that numerical variables are quantifiable and represent numbers, while categorical variables are non-        numerical and represent groups
 
 ## Visualization
-- Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
+- Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an         accessible way to see and understand trends, outliers, and patterns in data.
   
   - Matplotlib : Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
     
@@ -19,11 +19,11 @@
                    You can create a figure using the plt.figure() function or implicitly using plt.subplots().
        
      - Axis labels - Axis Labels describe what each axis represents.
-You can set labels for the x-axis and y-axis using plt.xlabel() and plt.ylabel() or ax.set_xlabel() and ax.set_ylabel() for an Axes object.
+                     You can set labels for the x-axis and y-axis using plt.xlabel() and plt.ylabel() or ax.set_xlabel() and ax.set_ylabel() for an Axes object.
 
      - Sub-figures - A Subfigure is a division within a Figure that allows you to arrange multiple smaller Figures side by side or stacked.
-Subfigures are available starting from Matplotlib 3.4 and allow advanced layouts.
-You can create subfigures using the Figure.add_subfigure() method.
+                     Subfigures are available starting from Matplotlib 3.4 and allow advanced layouts.
+                     You can create subfigures using the Figure.add_subfigure() method.
 
      - Ticks - Ticks are the markers on the x-axis and y-axis (or other axes) that indicate the scale or intervals.
                There are two main types of ticks:
@@ -68,8 +68,8 @@ features are the variables or attributes that a model uses to make predictions, 
 - Feature Orthogonality - can be checked using Pearson correlation coefficient.
 - Cosine Similarity - u.v/|u||v| , if orthogonal ie u.v is zero,then cosine similarity is zero.
 - Feature Colinearity - if f2 = 1.5f1 or a multiple of f1,then f1 f2 are said to be colinear. This is not preferred.
-- Feature Slicing - Feature-sliced design (FSD) is an architectural methodology for organizing code in front-end applications. It involves dividing a product's features into independent components, or "slices", which are then designed and developed separately. 
-- Indicator Variable - An indicator variable is a variable that can only have two values, 0 and 1, and is used to represent the presence or absence of an attribute. They are also known as dummy variables. 
+- Feature Slicing - Feature-sliced design (FSD) is an architectural methodology for organizing code in front-end applications. It involves dividing a product's features into                       independent components, or "slices", which are then designed and developed separately. 
+- Indicator Variable - An indicator variable is a variable that can only have two values, 0 and 1, and is used to represent the presence or absence of an attribute. They are                          also known as dummy variables. 
 - Feature Binning - Feature binning is a technique that groups numerical data into bins or buckets to create categorical data. It is also known as bucketing.
 - Mathematical Transforms
    - Logarithms
@@ -77,6 +77,6 @@ features are the variables or attributes that a model uses to make predictions, 
 
 - Logarithms - Used in the CWT spectrograms, which have an equal resolution on a log-frequency scale. 
 
-- FFT - A computationally efficient algorithm that computes the Discrete Fourier Transform (DFT) of a sequence. The FFT is based on a "divide and conquer" algorithm that reduces the number of numerical operations required to compute the DFT. The FFT is used for signal filtering, spectral estimation, and data compression.
+- FFT - A computationally efficient algorithm that computes the Discrete Fourier Transform (DFT) of a sequence. The FFT is based on a "divide and conquer" algorithm that               reduces the number of numerical operations required to compute the DFT. The FFT is used for signal filtering, spectral estimation, and data compression.
 
 - STFT - A variation of the FFT that allows for simultaneous analysis in time and frequency domains. The STFT spectrograms have an equal resolution on a linear frequency scale.
